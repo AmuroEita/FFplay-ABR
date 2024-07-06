@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "cmath": "c",
+        "netdissect.h": "c",
+        "setjmp.h": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "print.h": "c"
+    }
+}
